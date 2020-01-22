@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algos", "algos.csproj", "{F3C66E54-1113-4236-8D2F-999FF5C3E139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algos.tests", "..\algos.tests\algos.tests.csproj", "{AB0F899D-133C-4341-BC51-F73160D57684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C66E54-1113-4236-8D2F-999FF5C3E139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C66E54-1113-4236-8D2F-999FF5C3E139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C66E54-1113-4236-8D2F-999FF5C3E139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C66E54-1113-4236-8D2F-999FF5C3E139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0F899D-133C-4341-BC51-F73160D57684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0F899D-133C-4341-BC51-F73160D57684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0F899D-133C-4341-BC51-F73160D57684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0F899D-133C-4341-BC51-F73160D57684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419AAB1F-E71D-4129-B936-3440F87E689A}
+	EndGlobalSection
+EndGlobal
