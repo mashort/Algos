@@ -17,7 +17,6 @@ namespace algos
                         
             // Easy e = new Easy();
             // RunTheMethod(e.TwoSum, ref returnedArray);
-            // Console.WriteLine("Index 0: {0} | Index 1: {1}", returnedArray[0], returnedArray[1]);
         }
 
         static void RunTheMethod(Func<int[], int, int[]> methodToBeRun, ref int[] returnedArray)
